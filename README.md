@@ -1,10 +1,10 @@
 # IMDB-Clone
 
-This is an IMDb clone project that replicates the functionality of the popular movie and TV show database using HTML, CSS, JavaScript, and MongoDB for generating APIs.
+This is an IMDB clone project that replicates the functionality of the popular movie and TV show database using HTML, CSS, JavaScript, and OMDB for generating APIs.
 
 ## Description
 
-The IMDb Clone is a web application that allows users to browse and search for movies and TV shows, view details about specific titles. It is built using a combination of front-end technologies (HTML, CSS, and JavaScript) for the user interface and MongoDB for generating APIs to fetch and display movie data.
+The IMDb Clone is a web application that allows users to browse and search for movies and TV shows, view details about specific titles. It is built using a combination of front-end technologies (HTML, CSS, and JavaScript) for the user interface and OMDB for generating APIs to fetch and display movie data.
 
 ## Features
 
@@ -17,7 +17,7 @@ The IMDb Clone is a web application that allows users to browse and search for m
 - HTML
 - CSS
 - JavaScript
-- MongoDB for API
+- OMDB for API
 
 ## Usage
 
