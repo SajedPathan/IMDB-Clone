@@ -27,7 +27,7 @@ The IMDb Clone is a web application that allows users to browse and search for m
 - Click on Add to favourite option to save in favourite section.
 - Click on favourite option to see the movies which you added as favoutite.
 
-## Contact
+## Hosted Link
 
 https://sajedpathan.github.io/IMDB-Clone/
 
